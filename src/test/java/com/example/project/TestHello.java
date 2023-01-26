@@ -28,3 +28,4 @@ public class TestHello {
      System.setOut(originalOut);
    }
 }
+
